@@ -14,8 +14,10 @@ include 'menu.php';
 
 ?>
 
+<div>
 <h1>Hjem</h1>
 <p>Lorem Ipsum</p>
+</div>
 
 </body>
 </html>

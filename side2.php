@@ -13,6 +13,10 @@
 include 'menu.php';
 
 ?>
-
+<div>
 <h1>Side 2</h1>
 <p>Lorem Ipsum</p>
+</div>
+
+</body>
+</html>

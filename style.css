@@ -2,12 +2,20 @@ body {
 	margin: 20px;
 }
 
+div {
+	border: solid 2px;
+	border-radius: 15px;
+	margin: 20px 0px 20px 0px;
+	padding-left: 20px;
+}
+
 ul {
 	list-style-type: none;
 	margin: 0;
 	padding: 0;
 	overflow: hidden;
     background-color: #555555;
+    border-radius: 15px;
 }
 
 li {
